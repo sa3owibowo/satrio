@@ -1,2 +1,2 @@
-<h1 align="center">Satrio Wibowo</h1>
-<h2 align="center">Currently designing products for humans.</h2>
+<div align="center">Ｓａｔｒｉｏ Ｗｉｂｏｗｏ</div>
+<div align="center">𝘐 𝘈𝘮 𝘕𝘰𝘣𝘰𝘥𝘺</div>
