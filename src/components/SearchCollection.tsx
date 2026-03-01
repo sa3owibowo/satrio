@@ -75,7 +75,7 @@ export default function SearchCollection({ entry_name, data, tags }: Props) {
       <div class="col-span-3 sm:col-span-1">
         <div class="sticky top-24 mt-7">
           {/* Search Bar */}
-          <SearchBar onSearchInput={onSearchInput} query={query} setQuery={setQuery} placeholderText={`Cari ${entry_name}`} />
+          <SearchBar onSearchInput={onSearchInput} query={query} setQuery={setQuery} placeholderText={`Cari di sini`} />
           {/* Tag Filters */}
           <div class="relative flex flex-row justify-between w-full"><p class="text-sm font-semibold uppercase my-4 text-black dark:text-white">Tags</p>
             {filter().size > 0 && (
