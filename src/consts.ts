@@ -10,25 +10,25 @@ export const SITE: Site = {
 // Work Page
 export const WORK: Page = {
   TITLE: "Work",
-  DESCRIPTION: "Places I have worked.",
+  DESCRIPTION: "Tempat yang pernah saya kerjakan.",
 }
 
 // Blog Page
 export const BLOG: Page = {
   TITLE: "Blog",
-  DESCRIPTION: "Writing on topics I am passionate about.",
+  DESCRIPTION: "Menulis tentang topik yang saya minati.",
 }
 
 // Projects Page 
 export const PROJECTS: Page = {
   TITLE: "Projects",
-  DESCRIPTION: "Recent projects I have worked on.",
+  DESCRIPTION: "Projects terbaru yang telah saya kerjakan.",
 }
 
 // Search Page
 export const SEARCH: Page = {
   TITLE: "Search",
-  DESCRIPTION: "Search all posts and projects by keyword.",
+  DESCRIPTION: "Cari semua postingan dan projects berdasarkan kata kunci.",
 }
 
 // Links
