@@ -67,6 +67,7 @@ const { title, description, image = "/open-graph.jpg" } = Astro.props
     ].forEach((link) => link.remove())
   )
 </script>
+<script>
 // Get Giscus themes
   const setGiscusTheme = () => {
     const giscus = document.querySelector(".giscus-frame");
@@ -79,3 +80,4 @@ const { title, description, image = "/open-graph.jpg" } = Astro.props
       giscus.src = url.toString();
     }
   };
+</script>
