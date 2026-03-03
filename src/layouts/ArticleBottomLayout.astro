@@ -68,14 +68,10 @@ const next = items[(index + 1) % items.length]
         data-reactions-enabled="0"
         data-emit-metadata="1"
         data-input-position="top"
-        data-theme="purple_dark"
+        data-theme="cobalt"
         data-lang="id"
         data-loading="lazy"
         crossorigin="anonymous"
         async>
 </script>
 
-  document.addEventListener("DOMContentLoaded", () => init());
-  document.addEventListener("astro:after-swap", () => init());
-  preloadTheme();
-</script>
