@@ -1,17 +1,21 @@
 ---
 import PageLayout from "@layouts/404Layout.astro"
+import TopLayout from "@layouts/TopLayout.astro";
 ---
 <PageLayout title="Halaman Tidak Ditemukan">
-  <div class="relative bg-white dark:bg-black">
-    <div class="mx-auto max-w-screen-sm p-5 space-y-24 pb-16">
-      <!-- 404 Section -->
-      <section class="animate">
-        <article>
-          <h1>404 - Halaman Tidak Ditemukan</h1>
-          <p>Maaf, halaman yang Anda cari tidak ada.</p>
-          <a href="/">Kembali ke Beranda</a>
-        </article>
-      </section>
+  <TopLayout>
+    <div class="relative bg-white dark:bg-black">
+      <div class="mx-auto max-w-screen-sm p-5 space-y-24 pb-16">
+
+        <!-- 404 Section -->
+        <section class="animate">
+          <article>
+            <h1>404 - Halaman Tidak Ditemukan</h1>
+            <p>Maaf, halaman yang Anda cari tidak ada.</p>
+            <a href="/">Kembali ke Beranda</a>
+          </article>
+        </section>
+      </div>
     </div>
-  </div>
+  </TopLayout>
 </PageLayout>
