@@ -1,0 +1,17 @@
+---
+import "@styles/global.css"
+import BaseHead from "@components/BaseHead.astro"
+const { title } = Astro.props
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={`"Halaman Tidak Ditemukan`} />
+  </head>
+  <body>
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>
