@@ -40,7 +40,7 @@ Situs kami dapat menggunakan “cookie” untuk meningkatkan pengalaman pengguna
 Anda dapat memilih untuk mengatur peramban web Anda agar menolak cookie atau memberi peringatan saat cookie dikirimkan. Namun, jika Anda melakukannya, beberapa bagian dari Situs mungkin tidak berfungsi dengan baik.
 
 #### Bagaimana Kami Menggunakan Informasi yang Dikumpulkan
-Satrio Wibowo dapat mengumpulkan dan menggunakan informasi pengguna untuk tujuan berikut:
+Satrio Wibowo (“Situs”, “kami”) dapat mengumpulkan dan menggunakan informasi pengguna untuk tujuan berikut:
 
 - Meningkatkan layanan pelanggan
 - Mempersonalisasi pengalaman pengguna
