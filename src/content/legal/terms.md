@@ -13,7 +13,7 @@ Dengan mengakses atau menggunakan Situs ini, Anda menyetujui untuk terikat oleh 
 Apabila Anda tidak menyetujui sebagian atau seluruh isi Syarat dan Ketentuan ini, Anda tidak diperkenankan untuk menggunakan Situs ini.
 
 #### Hak Kekayaan Intelektual
-Seluruh konten yang terdapat pada Situs ini, termasuk namun tidak terbatas pada teks, artikel, desain, logo, grafik, gambar, video, kode sumber, dan elemen lainnya merupakan milik Satrio Wibowo atau pemegang lisensi yang sah dan dilindungi oleh peraturan perundang-undangan tentang Hak Kekayaan Intelektual yang berlaku di Indonesia.
+Seluruh konten yang terdapat pada Situs ini, termasuk namun tidak terbatas pada teks, artikel, desain, logo, grafik, gambar, video, kode sumber, dan elemen lainnya merupakan milik Satrio Wibowo (“Situs”, “kami”) atau pemegang lisensi yang sah dan dilindungi oleh peraturan perundang-undangan tentang Hak Kekayaan Intelektual yang berlaku di Indonesia.
 
 Anda dilarang untuk:
 - Menyalin, mendistribusikan, memodifikasi, atau mereproduksi konten tanpa izin tertulis.
@@ -36,7 +36,7 @@ Pelanggaran terhadap ketentuan ini dapat mengakibatkan penghentian akses Anda ke
 #### Tautan ke Situs Web Lain
 Situs ini dapat mengandung tautan ke situs web pihak ketiga. Tautan tersebut disediakan hanya untuk kemudahan pengguna.
 
-Satrio Wibowo tidak memiliki kendali atas isi, kebijakan, atau praktik situs pihak ketiga tersebut dan tidak bertanggung jawab atas kerugian atau kerusakan yang timbul dari penggunaan situs eksternal tersebut.
+Satrio Wibowo (“Situs”, “kami”) tidak memiliki kendali atas isi, kebijakan, atau praktik situs pihak ketiga tersebut dan tidak bertanggung jawab atas kerugian atau kerusakan yang timbul dari penggunaan situs eksternal tersebut.
 
 Penggunaan situs pihak ketiga sepenuhnya menjadi tanggung jawab Anda sendiri.
 
@@ -51,7 +51,7 @@ Syarat dan Ketentuan ini diatur dan ditafsirkan sesuai dengan hukum yang berlaku
 Setiap sengketa yang timbul dari penggunaan Situs ini akan diselesaikan sesuai dengan yurisdiksi pengadilan yang berwenang di Indonesia.
 
 #### Perubahan pada Syarat Penggunaan Ini
-Satrio Wibowo berhak untuk mengubah, memperbarui, atau merevisi Syarat dan Ketentuan ini kapan saja tanpa pemberitahuan sebelumnya.
+Satrio Wibowo (“Situs”, “kami”) berhak untuk mengubah, memperbarui, atau merevisi Syarat dan Ketentuan ini kapan saja tanpa pemberitahuan sebelumnya.
 
 Perubahan akan berlaku sejak dipublikasikan di halaman ini. Dengan terus menggunakan Situs setelah perubahan dilakukan, Anda dianggap menyetujui versi terbaru dari Syarat dan Ketentuan ini.
 
