@@ -3,7 +3,7 @@ title: "Terms of Use"
 date: "03/02/2026"
 ---
 
-Harap baca Ketentuan Penggunaan (“Ketentuan”, “Ketentuan Penggunaan”) ini dengan saksama, karena mengakses dan menggunakan situs web Satrio Wibowo ("Situs") di https://satrio.net
+Harap baca Ketentuan Penggunaan ini dengan saksama, karena mengakses dan menggunakan situs web Satrio Wibowo ("Situs") di https://satrio.net
 , Anda dianggap telah membaca, memahami, dan menyetujui seluruh isi Syarat dan Ketentuan Penggunaan ini.
 
 
