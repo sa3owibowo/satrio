@@ -230,6 +230,12 @@ paragraf {
   margin: 10px auto 30px;
 }
 
+@media (max-width: 480px) {
+  .h6 {
+    font-size: 22px;
+  }
+}
+
 /* Card transition */
 /* .fade-move-enter-active,
 .fade-move-exit-active {
