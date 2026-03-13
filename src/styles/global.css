@@ -175,7 +175,7 @@ article img {
   @apply w-full aspect-square text-white opacity-70 hover:opacity-90;
 }
 
-.404 {
+.nf404 {
   margin: 0;
   padding: 0;
   display: flex;
