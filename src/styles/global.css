@@ -175,7 +175,7 @@ article img {
   @apply w-full aspect-square text-white opacity-70 hover:opacity-90;
 }
 
-.nf404 {
+.error-404 {
   text-align: center;
   margin: 0 0 30px;
 }
@@ -186,7 +186,7 @@ article img {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--text-color);
+  color: var(--primary-color);
   margin-bottom: -20px;
 }
 
