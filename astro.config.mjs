@@ -9,13 +9,11 @@ import vercel from '@astrojs/vercel';
 export default defineConfig({
   site: "https://satrio.net",
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
-})
-// webAnalytics
-export default defineConfig({
-  output: 'server',
+    output: 'server',
   adapter: vercel({
     webAnalytics: {
       enabled: true, // set to false when using @vercel/analytics@1.4.0
     },
   }),
-});
+})
+
