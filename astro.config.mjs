@@ -8,9 +8,5 @@ import solidJs from "@astrojs/solid-js"
 export default defineConfig({
   site: "https://satrio.net",
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
-  adapter: vercel({
-    webAnalytics: {
-      enabled: true,
-    },
-  }),
+  webAnalytics: {enabled: true,},
 })
