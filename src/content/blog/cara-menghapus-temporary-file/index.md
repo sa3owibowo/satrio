@@ -10,7 +10,7 @@ tags:
 - Optimasi
 ---
 
-Menghapus *temporary file* (file sampah) di Windows 11 adalah langkah krusial untuk menjaga kinerja laptop tetap responsif dan mengosongkan ruang penyimpanan yang penuh. File-file ini biasanya menumpuk dari sisa pembaruan sistem, *cache* aplikasi, hingga data pencarian internet.
+File-file ini biasanya menumpuk dari sisa pembaruan sistem, *cache* aplikasi, hingga data pencarian internet.
 
 Berikut adalah panduan lengkap cara membersihkan file sampah di Windows 11:
 
